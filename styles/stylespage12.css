@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: fantasy;
+}
+h1 {
+  background-color: #761a2f;
+  display: inline-block;
+  color: blanchedalmond;
+  padding: 20px;
+  font-size: 50px;
+  border-radius: 7px;
+}
+p {
+  color: blanchedalmond;
+  font-size: 40px;
+  max-width: 500px;
+  text-align: center;
+  margin: auto;
+}
+
+p a {
+  margin: 50px;
+  border: 2px solid blanchedalmond;
+  padding: 50px;
+  background-color: #761a2f;
+  max-width: 300px;
+  display: inline-block;
+  border-radius: 20px;
+  color: black;
+}
+strong {
+  color: #761a2f;
+  font-weight: bolder;
+}
+a:hover {
+  background-color: #da4662;
+  font-size: larger;
+  color: white;
+}
