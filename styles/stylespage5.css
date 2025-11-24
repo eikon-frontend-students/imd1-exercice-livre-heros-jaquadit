@@ -26,4 +26,11 @@ p a {
   background-color: #761a2f;
   max-width: 300px;
   display: inline-block;
+  border-radius: 20px;
+  color: black;
+}
+a:hover {
+  background-color: #da4662;
+  font-size: larger;
+  color: white;
 }

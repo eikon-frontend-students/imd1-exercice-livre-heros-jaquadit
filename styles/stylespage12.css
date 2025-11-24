@@ -4,7 +4,7 @@ body {
   font-family: fantasy;
 }
 h1 {
-  background-color: #09247b;
+  background-color: #761a2f;
   display: inline-block;
   color: blanchedalmond;
   padding: 20px;
@@ -28,6 +28,10 @@ p a {
   display: inline-block;
   border-radius: 20px;
   color: black;
+}
+strong {
+  color: #761a2f;
+  font-weight: bolder;
 }
 a:hover {
   background-color: #da4662;
